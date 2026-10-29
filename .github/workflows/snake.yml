@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: bahriayet
           outputs: |
-            dist/github-snake.svg?color_snake=%23C9A227&color_dots=%2316151A,%232A2418,%235A4A1A,%238A6A1A,%23C9A227
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23F7E7B0&color_dots=%2316151A,%232A2418,%235A4A1A,%238A6A1A,%23C9A227
+            dist/github-snake.svg?color_snake=%23C9A227&color_dots=%23241F16,%233A3020,%235A4A1A,%238A6A1A,%23C9A227
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23FFDF80&color_dots=%23241F16,%233A3020,%235A4A1A,%238A6A1A,%23C9A227
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
