@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Bahri Muhammad monogram">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+      <stop offset="0" stop-color="#1A1710"/>
+      <stop offset="0.6" stop-color="#0D0C0A"/>
+      <stop offset="1" stop-color="#070707"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#C9A227" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7E7B0"/>
+      <stop offset="0.35" stop-color="#C9A227"/>
+      <stop offset="0.6" stop-color="#F7E7B0"/>
+      <stop offset="1" stop-color="#9C7A1A"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#F5EFE3" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <rect width="800" height="800" fill="url(#grid)"/>
+  <circle cx="400" cy="360" r="300" fill="url(#glow)"/>
+
+  <circle cx="400" cy="400" r="318" fill="none" stroke="#C9A227" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="400" cy="400" r="300" fill="none" stroke="#C9A227" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="400" cy="400" r="286" fill="none" stroke="#C9A227" stroke-opacity="0.12" stroke-width="1" stroke-dasharray="2 10"/>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="188" font-weight="700" fill="url(#gold)" letter-spacing="6">BM</text>
+
+  <rect x="330" y="500" width="140" height="1" fill="#C9A227" opacity="0.55"/>
+  <text x="400" y="540" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#C9A227" letter-spacing="7">BAHRI MUHAMMAD</text>
+  <text x="400" y="575" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="10" font-weight="500" fill="#B9B3A6" letter-spacing="4">FULL-STACK DEVELOPER</text>
+
+  <g fill="#E8C766" opacity="0.6">
+    <circle cx="210" cy="220" r="2"/>
+    <circle cx="600" cy="190" r="1.5"/>
+    <circle cx="650" cy="560" r="2"/>
+    <circle cx="155" cy="540" r="1.5"/>
+    <circle cx="500" cy="150" r="1.2"/>
+  </g>
+</svg>
