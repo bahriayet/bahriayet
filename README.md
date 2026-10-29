@@ -43,6 +43,11 @@ My personal portfolio: a React + Vite site covering projects, experience, and co
 
 [Live site](https://portofolioku-ochre-nu.vercel.app) · [Source code](https://github.com/bahriayet/portofolioku)
 
+## Specifications
+
+- [**SymbioTrade**](https://github.com/bahriayet/symbiotrade-spec) — a B2B marketplace for industrial by-products, with PRD, system requirements, system design, UX flow, and sprint plan.
+- [**Smart Palm-Oil Monitor**](https://github.com/bahriayet/smart-facility-hub) — a mill operations spec covering weighbridge data, local AI yield prediction, truck queues, and Telegram notifications.
+
 ---
 
 ## Tools I reach for
