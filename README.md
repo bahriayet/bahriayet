@@ -1,77 +1,156 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Bahri Muhammad — Full-stack developer" width="100%">
-</p>
-
-<h3 align="center">I build production web apps for small businesses.</h3>
-
-<p align="center">
-  TypeScript · Fastify · PostgreSQL · React · Next.js
+  <img src="./assets/banner.svg" alt="Bahri Muhammad — Full-stack developer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://portofolioku-ochre-nu.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-live-FF8550?style=for-the-badge"></a>
-  <a href="https://github.com/bahriayet?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:muhammadbahri270899@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-contact-2747C8?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=820&lines=Full-stack+developer;I+build+production+tools+for+small+businesses;TypeScript+%C2%B7+Fastify+%C2%B7+PostgreSQL+%C2%B7+React;Based+in+Mataram%2C+Indonesia" alt="Typing SVG">
+  </a>
 </p>
-
----
-
-## Selected work
-
-### MAHA Dewi Laundry Ops
-
-An operations platform for a real laundry business in Mataram, Indonesia: a six-scene public storefront, a customer portal with order tracking and wallet, and a real-time admin dashboard with stage scanning, QRIS payments, RBAC, audit logs, and CSV reports.
-
-**Stack:** Fastify 5 · PostgreSQL · WebSocket · vanilla JavaScript · Playwright
-**Quality:** 67 API/domain tests and end-to-end coverage for the landing page and admin flows.
-
-[Source code](https://github.com/bahriayet/busa) · [Screenshots](https://github.com/bahriayet/busa#screenshots)
-
-### KICK STORM
-
-A premium sneaker brand site with an Express + Neon PostgreSQL backend. Built to practice art direction, motion, and a server-backed product experience.
-
-**Stack:** Express · Neon PostgreSQL · JavaScript · Three.js
-
-[Source code](https://github.com/bahriayet/KICK-STORM)
-
-### Portofolioku
-
-My personal portfolio: a React + Vite site covering projects, experience, and contact details.
-
-**Stack:** React · Vite · modern CSS
-
-[Live site](https://portofolioku-ochre-nu.vercel.app) · [Source code](https://github.com/bahriayet/portofolioku)
-
-## Specifications
-
-- [**SymbioTrade**](https://github.com/bahriayet/symbiotrade-spec) — a B2B marketplace for industrial by-products, with PRD, system requirements, system design, UX flow, and sprint plan.
-- [**Smart Palm-Oil Monitor**](https://github.com/bahriayet/smart-facility-hub) — a mill operations spec covering weighbridge data, local AI yield prediction, truck queues, and Telegram notifications.
-
----
-
-## Tools I reach for
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3E9E76?style=flat-square&logo=node.js&logoColor=white">
-  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-111111?style=flat-square&logo=fastify&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-2747C8?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-3E9E76?style=flat-square&logo=playwright&logoColor=white">
-</p>
-
-## What I care about
-
-- Software that survives contact with a real business: clear data, safe defaults, and boring reliability.
-- Tests that catch regressions, not tests that only raise a coverage number.
-- Accessibility as part of the interface, not a checklist at the end.
-- Small dependencies and code that the next person can read.
-
----
 
 <p align="center">
-  <sub>Based in Mataram, Indonesia · <a href="mailto:muhammadbahri270899@gmail.com">muhammadbahri270899@gmail.com</a></sub>
+  <a href="https://portofolioku-ochre-nu.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-C9A227?style=for-the-badge&logo=vercel&logoColor=0B0B0C&labelColor=0B0B0C"></a>
+  <a href="https://github.com/bahriayet?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/REPOSITORIES-GITHUB-F5EFE3?style=for-the-badge&logo=github&logoColor=0B0B0C&labelColor=0B0B0C"></a>
+  <a href="mailto:muhammadbahri270899@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-CONTACT-C9A227?style=for-the-badge&logo=gmail&logoColor=0B0B0C&labelColor=0B0B0C"></a>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### ✦ A little about me
+
+I am a full-stack developer in **Mataram, Indonesia**. I build software that a
+real business can run on: clear data, safe defaults, tested flows, and
+interfaces that work on a phone.
+
+My current focus is **operations software for small businesses** — the kind of
+tools that are usually spread across paper, spreadsheets, and chat groups.
+
+- Building **MAHA Dewi Laundry Ops**, a production laundry platform.
+- Designing **SymbioTrade**, a B2B marketplace for industrial by-products.
+- Writing TypeScript, Fastify, PostgreSQL, React, and plain JavaScript.
+- Caring about accessibility, audit trails, and tests that catch regressions.
+
+</td>
+<td width="42%" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahriayet&show_icons=true&hide=stars,issues&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B0B0C&title_color=C9A227&text_color=F5EFE3&icon_color=E8C766&border_color=2A2418&border_radius=12" alt="GitHub stats" width="100%">
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+<h2 align="center">✦ Selected work ✦</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/bahriayet/busa">
+    <img src="./assets/projects/busa.png" alt="MAHA Dewi Laundry Ops" width="100%">
+  </a>
+  <h3 align="center">MAHA Dewi Laundry Ops</h3>
+  <p align="center"><sub>Fastify · PostgreSQL · WebSocket · vanilla JS</sub></p>
+  <p>A production laundry platform: public storefront, customer portal with
+  order tracking and wallet, and a real-time admin dashboard with QRIS
+  payments, RBAC, audit logs, and CSV reports.</p>
+  <p align="center"><a href="https://github.com/bahriayet/busa">Source</a> · <a href="https://github.com/bahriayet/busa#screenshots">Screenshots</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/bahriayet/KICK-STORM">
+    <img src="./assets/projects/kickstorm.png" alt="KICKSTORM storefront" width="100%">
+  </a>
+  <h3 align="center">KICKSTORM</h3>
+  <p align="center"><sub>Express · Neon PostgreSQL · Three.js · GSAP</sub></p>
+  <p>A premium sneaker storefront with a 3D hero, customizer, checkout,
+  payment proof, courier tracking, and an admin dashboard for running the
+  store.</p>
+  <p align="center"><a href="https://github.com/bahriayet/KICK-STORM">Source</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://portofolioku-ochre-nu.vercel.app">
+    <img src="./assets/projects/portfolio.png" alt="Portofolioku" width="100%">
+  </a>
+  <h3 align="center">Portofolioku</h3>
+  <p align="center"><sub>React · Vite · modern CSS</sub></p>
+  <p>A bilingual personal portfolio with dark and light themes, scroll-driven
+  motion, project case studies, experience, and a downloadable CV.</p>
+  <p align="center"><a href="https://portofolioku-ochre-nu.vercel.app">Live</a> · <a href="https://github.com/bahriayet/portofolioku">Source</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/bahriayet/undanga-pernikahan">
+    <img src="./assets/projects/undangan.png" alt="Undangan Pernikahan" width="100%">
+  </a>
+  <h3 align="center">Undangan Pernikahan</h3>
+  <p align="center"><sub>HTML · Tailwind · vanilla JavaScript</sub></p>
+  <p>A mobile-first digital wedding invitation with personalized guest links,
+  countdown, music, maps, RSVP via WhatsApp, and a guest book.</p>
+  <p align="center"><a href="https://github.com/bahriayet/undanga-pernikahan">Source</a></p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+<h2 align="center">✦ Specifications ✦</h2>
+
+<p align="center">
+  <a href="https://github.com/bahriayet/symbiotrade-spec"><strong>SymbioTrade</strong></a> — a B2B marketplace for industrial by-products.<br>
+  <sub>PRD · system requirements · system design · UX flow · sprint plan</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bahriayet/smart-facility-hub"><strong>Smart Palm-Oil Monitor</strong></a> — mill operations, weighbridge data, local AI yield prediction, truck queues, and Telegram notifications.<br>
+  <sub>product requirements · architecture · delivery roadmap</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+<h2 align="center">✦ Tools I reach for ✦</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,react,nextjs,tailwind,html,css,git,github,vercel&theme=dark&perline=13" alt="TypeScript, JavaScript, Node.js, Express, PostgreSQL, React, Next.js, Tailwind, HTML, CSS, Git, GitHub, Vercel">
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+<h2 align="center">✦ GitHub in numbers ✦</h2>
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=bahriayet&hide_border=true&background=0B0B0C&border=2A2418&stroke=C9A227&ring=E8C766&fire=C9A227&currStreakNum=F5EFE3&sideNums=F5EFE3&currStreakLabel=C9A227&sideLabels=B9B3A6&dates=8B8580&border_radius=12" alt="GitHub streak">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahriayet&layout=compact&langs_count=6&bg_color=0B0B0C&title_color=C9A227&text_color=F5EFE3&border_color=2A2418&border_radius=12" alt="Top languages">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bahriayet&bg_color=0B0B0C&color=C9A227&line=E8C766&point=F5EFE3&area=true&area_color=C9A227&hide_border=true&custom_title=Contribution%20Activity&radius=12" alt="Contribution activity graph">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bahriayet/bahriayet/output/github-snake-dark.svg" alt="Contribution snake" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+<p align="center">
+  <sub>Mataram, Indonesia · <a href="mailto:muhammadbahri270899@gmail.com">muhammadbahri270899@gmail.com</a></sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bahriayet&label=PROFILE+VIEWS&color=C9A227&style=for-the-badge" alt="Profile views">
 </p>
