@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Bahri Muhammad — Full-stack developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#08080A"/>
-      <stop offset="0.5" stop-color="#0E0D10"/>
-      <stop offset="1" stop-color="#14110B"/>
+      <stop offset="0" stop-color="#070A06"/>
+      <stop offset="0.5" stop-color="#0B0F08"/>
+      <stop offset="1" stop-color="#101607"/>
     </linearGradient>
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#C9A227" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
+      <stop offset="0" stop-color="#B6FF3B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#B6FF3B" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F7E7B0"/>
-      <stop offset="0.28" stop-color="#C9A227"/>
-      <stop offset="0.52" stop-color="#F7E7B0"/>
-      <stop offset="0.76" stop-color="#A8841C"/>
-      <stop offset="1" stop-color="#E8C766"/>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E6FFB8"/>
+      <stop offset="0.28" stop-color="#B6FF3B"/>
+      <stop offset="0.52" stop-color="#E6FFB8"/>
+      <stop offset="0.76" stop-color="#6E9E00"/>
+      <stop offset="1" stop-color="#C6FF00"/>
     </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#C9A227" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#C9A227" stop-opacity="0.8"/>
-      <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
+      <stop offset="0" stop-color="#B6FF3B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#B6FF3B" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#B6FF3B" stop-opacity="0"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#F5EFE3" stroke-opacity="0.035" stroke-width="1"/>
@@ -78,11 +78,11 @@
   <text x="600" y="316" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="230" font-weight="700" fill="#F5EFE3" opacity="0.025" letter-spacing="12">BM</text>
 
   <!-- frame -->
-  <rect x="22" y="22" width="1156" height="276" rx="16" fill="none" stroke="#C9A227" stroke-opacity="0.32" stroke-width="1"/>
-  <rect x="30" y="30" width="1140" height="260" rx="12" fill="none" stroke="#C9A227" stroke-opacity="0.10" stroke-width="1"/>
+  <rect x="22" y="22" width="1156" height="276" rx="16" fill="none" stroke="#B6FF3B" stroke-opacity="0.32" stroke-width="1"/>
+  <rect x="30" y="30" width="1140" height="260" rx="12" fill="none" stroke="#B6FF3B" stroke-opacity="0.10" stroke-width="1"/>
 
   <!-- corner accents -->
-  <g stroke="#C9A227" stroke-width="1.6" stroke-linecap="round" opacity="0.85">
+  <g stroke="#B6FF3B" stroke-width="1.6" stroke-linecap="round" opacity="0.85">
     <path d="M 22 56 L 22 22 L 56 22"/>
     <path d="M 1144 22 L 1178 22 L 1178 56"/>
     <path d="M 22 264 L 22 298 L 56 298"/>
@@ -91,16 +91,16 @@
 
   <!-- rotating emblem -->
   <g opacity="0.55">
-    <circle cx="1044" cy="84" r="30" fill="none" stroke="#C9A227" stroke-opacity="0.35" stroke-width="1"/>
-    <circle class="ring" cx="1044" cy="84" r="38" fill="none" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" stroke-dasharray="2 9"/>
-    <text x="1044" y="90" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="700" fill="#C9A227">BM</text>
+    <circle cx="1044" cy="84" r="30" fill="none" stroke="#B6FF3B" stroke-opacity="0.35" stroke-width="1"/>
+    <circle class="ring" cx="1044" cy="84" r="38" fill="none" stroke="#B6FF3B" stroke-opacity="0.45" stroke-width="1" stroke-dasharray="2 9"/>
+    <text x="1044" y="90" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="700" fill="#B6FF3B">BM</text>
   </g>
 
   <!-- top label -->
-  <text x="600" y="100" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9A227" letter-spacing="9">FULL-STACK DEVELOPER</text>
+  <text x="600" y="100" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#B6FF3B" letter-spacing="9">FULL-STACK DEVELOPER</text>
 
   <!-- name -->
-  <text x="600" y="184" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="url(#gold)" letter-spacing="2">BAHRI MUHAMMAD</text>
+  <text x="600" y="184" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="url(#green)" letter-spacing="2">BAHRI MUHAMMAD</text>
 
   <!-- shimmer over name -->
   <g clip-path="url(#nameClip)" opacity="0.55">
@@ -112,10 +112,10 @@
 
   <!-- subtitle -->
   <text x="600" y="238" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#F5EFE3" opacity="0.88">TypeScript  ·  Fastify  ·  PostgreSQL  ·  React</text>
-  <text x="600" y="268" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500" fill="#B9B3A6" letter-spacing="5">MATARAM, INDONESIA</text>
+  <text x="600" y="268" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500" fill="#A9B39A" letter-spacing="5">MATARAM, INDONESIA</text>
 
   <!-- particles -->
-  <g fill="#E8C766">
+  <g fill="#C6FF00">
     <circle class="p1"  cx="120" cy="250" r="1.8"/>
     <circle class="p2"  cx="165" cy="140" r="1.4"/>
     <circle class="p3"  cx="245" cy="280" r="1.6"/>
@@ -131,6 +131,7 @@
   </g>
 
   <!-- small pulsing dots near the divider -->
-  <circle class="pulse" cx="430" cy="208.5" r="2.2" fill="#C9A227"/>
-  <circle class="pulse" cx="770" cy="208.5" r="2.2" fill="#C9A227"/>
+  <circle class="pulse" cx="430" cy="208.5" r="2.2" fill="#B6FF3B"/>
+  <circle class="pulse" cx="770" cy="208.5" r="2.2" fill="#B6FF3B"/>
 </svg>
+

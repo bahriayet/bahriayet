@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=820&lines=Full-stack+developer;I+build+production+tools+for+small+businesses;TypeScript+%C2%B7+Fastify+%C2%B7+PostgreSQL+%C2%B7+React;Based+in+Mataram%2C+Indonesia" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=3200&pause=900&color=B6FF3B&center=true&vCenter=true&width=820&lines=Full-stack+developer;I+build+production+tools+for+small+businesses;TypeScript+%C2%B7+Fastify+%C2%B7+PostgreSQL+%C2%B7+React;Based+in+Mataram%2C+Indonesia" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://portofolioku-ochre-nu.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-C9A227?style=for-the-badge&logo=vercel&logoColor=0B0B0C&labelColor=0B0B0C"></a>
+  <a href="https://portofolioku-ochre-nu.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-B6FF3B?style=for-the-badge&logo=vercel&logoColor=0B0B0C&labelColor=0B0B0C"></a>
   <a href="https://github.com/bahriayet?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/REPOSITORIES-GITHUB-F5EFE3?style=for-the-badge&logo=github&logoColor=0B0B0C&labelColor=0B0B0C"></a>
-  <a href="mailto:muhammadbahri270899@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-CONTACT-C9A227?style=for-the-badge&logo=gmail&logoColor=0B0B0C&labelColor=0B0B0C"></a>
+  <a href="mailto:muhammadbahri270899@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-CONTACT-B6FF3B?style=for-the-badge&logo=gmail&logoColor=0B0B0C&labelColor=0B0B0C"></a>
 </p>
 
 <p align="center">
@@ -137,12 +137,12 @@ tools that are usually spread across paper, spreadsheets, and chat groups.
 <h2 align="center">✦ GitHub in numbers ✦</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahriayet&theme=gruvbox" alt="GitHub profile summary">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahriayet&theme=github_dark" alt="GitHub profile summary">
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=bahriayet&hide_border=true&background=0B0B0C&border=2A2418&stroke=C9A227&ring=E8C766&fire=C9A227&currStreakNum=F5EFE3&sideNums=F5EFE3&currStreakLabel=C9A227&sideLabels=B9B3A6&dates=8B8580&border_radius=12" alt="GitHub streak">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahriayet&theme=gruvbox" alt="Repositories per language">
+  <img width="49%" src="https://streak-stats.demolab.com?user=bahriayet&hide_border=true&background=0B0B0C&border=2A2418&stroke=B6FF3B&ring=D9FF8A&fire=B6FF3B&currStreakNum=F5EFE3&sideNums=F5EFE3&currStreakLabel=B6FF3B&sideLabels=B9B3A6&dates=8B8580&border_radius=12" alt="GitHub streak">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahriayet&theme=github_dark" alt="Repositories per language">
 </p>
 
 <p align="center">
@@ -154,5 +154,5 @@ tools that are usually spread across paper, spreadsheets, and chat groups.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bahriayet&label=PROFILE+VIEWS&color=C9A227&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=bahriayet&label=PROFILE+VIEWS&color=B6FF3B&style=for-the-badge" alt="Profile views">
 </p>
