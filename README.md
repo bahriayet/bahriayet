@@ -38,7 +38,13 @@ tools that are usually spread across paper, spreadsheets, and chat groups.
 
 </td>
 <td width="42%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahriayet&show_icons=true&hide=stars,issues&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B0B0C&title_color=C9A227&text_color=F5EFE3&icon_color=E8C766&border_color=2A2418&border_radius=12" alt="GitHub stats" width="100%">
+  <blockquote>
+    <p><strong>Currently</strong></p>
+    <p>Building <strong>MAHA Dewi Laundry Ops</strong>.<br>
+    Designing <strong>SymbioTrade</strong>.<br>
+    Exploring local-first operations tools.<br>
+    Based in <strong>Mataram, Indonesia</strong>.</p>
+  </blockquote>
 </td>
 </tr>
 </table>
@@ -131,12 +137,12 @@ tools that are usually spread across paper, spreadsheets, and chat groups.
 <h2 align="center">✦ GitHub in numbers ✦</h2>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=bahriayet&hide_border=true&background=0B0B0C&border=2A2418&stroke=C9A227&ring=E8C766&fire=C9A227&currStreakNum=F5EFE3&sideNums=F5EFE3&currStreakLabel=C9A227&sideLabels=B9B3A6&dates=8B8580&border_radius=12" alt="GitHub streak">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahriayet&layout=compact&langs_count=6&bg_color=0B0B0C&title_color=C9A227&text_color=F5EFE3&border_color=2A2418&border_radius=12" alt="Top languages">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahriayet&theme=gruvbox" alt="GitHub profile summary">
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bahriayet&bg_color=0B0B0C&color=C9A227&line=E8C766&point=F5EFE3&area=true&area_color=C9A227&hide_border=true&custom_title=Contribution%20Activity&radius=12" alt="Contribution activity graph">
+  <img width="49%" src="https://streak-stats.demolab.com?user=bahriayet&hide_border=true&background=0B0B0C&border=2A2418&stroke=C9A227&ring=E8C766&fire=C9A227&currStreakNum=F5EFE3&sideNums=F5EFE3&currStreakLabel=C9A227&sideLabels=B9B3A6&dates=8B8580&border_radius=12" alt="GitHub streak">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahriayet&theme=gruvbox" alt="Repositories per language">
 </p>
 
 <p align="center">
