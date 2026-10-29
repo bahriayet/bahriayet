@@ -140,10 +140,6 @@ tools that are usually spread across paper, spreadsheets, and chat groups.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bahriayet/bahriayet/output/github-snake-dark.svg" alt="Contribution snake" width="100%">
-</p>
-
-<p align="center">
   <img src="./assets/divider.svg" alt="" width="100%">
 </p>
 
