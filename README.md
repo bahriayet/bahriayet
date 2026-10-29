@@ -77,7 +77,7 @@ tools that are usually spread across paper, spreadsheets, and chat groups.
   <p>A premium sneaker storefront with a 3D hero, customizer, checkout,
   payment proof, courier tracking, and an admin dashboard for running the
   store.</p>
-  <p align="center"><a href="https://github.com/bahriayet/KICK-STORM">Source</a></p>
+  <p align="center"><a href="https://bahriayet.github.io/KICK-STORM/">Live demo</a> · <a href="https://github.com/bahriayet/KICK-STORM">Source</a></p>
 </td>
 </tr>
 <tr>
